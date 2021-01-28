@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXo2fNaG16zErJnEimEtbOvqrYNP3jm+94MK3pHrq3mZgg7GylC+JK7wrVY/AdMngZs1D/nHdlKWUFeUdbdF9A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\masglobal\\MASGLOBAL\\Employees.Core\\Employees.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
